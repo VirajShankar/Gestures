@@ -1,9 +1,4 @@
-#  Gesture Control for Web Browsing
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.6+-yellow.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0.8+-orange.svg)
 
 Control your web browser using only hand gestures! This computer vision project allows you to scroll, navigate, and click on web pages without touching your keyboard or mouse.
 
@@ -52,7 +47,7 @@ Run the main application:
 | Press 'q' on keyboard | Exit application |
 
 ##  Project Structure
-## ⚙ How It Works
+##  How It Works
 
 This project uses:
 - **MediaPipe** for accurate hand landmark detection
